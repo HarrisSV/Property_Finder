@@ -2,7 +2,15 @@
 
 A full-stack real estate search platform inspired by [MagicBricks](https://www.magicbricks.com). Browse, search, and filter properties across **Bangalore** and **Mumbai** — for buying or renting.
 
-> **Live Demo:** [https://propertyfinder-demo.vercel.app](https://propertyfinder-demo.vercel.app) *(update with your deployed URL)*
+> **Live Demo:** [https://property-finder-kappa.vercel.app](https://property-finder-kappa.vercel.app)
+
+### 🔗 Deployment
+
+| Service | Link |
+|---------|------|
+| 🌐 **Live Website** | [property-finder-kappa.vercel.app](https://property-finder-kappa.vercel.app) |
+| ⚡ **Backend API** | [property-finder-ompt.onrender.com](https://property-finder-ompt.onrender.com) |
+| 📦 **GitHub Repo** | [github.com/HarrisSV/Property_Finder](https://github.com/HarrisSV/Property_Finder) |
 
 ---
 
